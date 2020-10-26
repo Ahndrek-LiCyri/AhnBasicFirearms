@@ -1,6 +1,0 @@
-Ahndrek's Basic Firearms is a mod that adds in some firearms to early game for gun-type ranger players!
-Currently it adds in 9 pistols, 2 SMGs, and 2 crafting materials.
-
-This was created to fill the seeming "gap" for gunslinger type rangers in the progression tree.
-
-Curr. Version: v1.0.0
